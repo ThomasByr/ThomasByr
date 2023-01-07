@@ -22,4 +22,4 @@
 ### 📍 My Pins
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=discord-compiler-bot&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/discord-compiler-bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=YOLO_crop&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/YOLO_crop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=galapsbs&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/galapsbs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=tf-gan&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/tf-gan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=galapsbs&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/galapsbs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=SoS2MIPS&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/SoS2MIPS)

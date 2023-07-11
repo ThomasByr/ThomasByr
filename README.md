@@ -28,6 +28,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=pac-man&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/pac-man) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=BioInfo-genome&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/BioInfo-genome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=useful-moderator&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/useful-moderator)
 
+### 📚 My Public Templates
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=python-app&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/python-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=c-cpp-app&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/c-cpp-app)
+
 ### 🪛 Tools
 
 <details open>
@@ -90,7 +94,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Frontend Development</summary>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img
@@ -122,7 +126,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Backend Development</summary>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -141,7 +145,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Mobile App Development</summary>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img
@@ -169,7 +173,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>AI/ML</summary>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img
@@ -204,7 +208,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Database</summary>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img
@@ -246,7 +250,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Devops</summary>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img
@@ -271,7 +275,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Backend as a Service(BaaS)</summary>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
@@ -285,7 +289,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Framework</summary>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
@@ -313,7 +317,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Software</summary>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
   <img
@@ -352,7 +356,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Static Site Generators</summary>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
@@ -366,7 +370,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Game Engines</summary>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
@@ -380,7 +384,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Other</summary>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img

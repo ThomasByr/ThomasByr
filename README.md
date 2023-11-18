@@ -23,10 +23,10 @@
 
 ### 📍 My Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=discord-compiler-bot&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/discord-compiler-bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=YOLO_crop&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/YOLO_crop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=galapsbs&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/galapsbs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=SoS2MIPS&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/SoS2MIPS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=pac-man&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/pac-man) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=BioInfo-genome&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/BioInfo-genome)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=useful-moderator&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/useful-moderator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=tor-brute&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/tor-brute) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=discord-compiler-bot&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/discord-compiler-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=YOLO_crop&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/YOLO_crop) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=galapsbs&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/galapsbs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=SoS2MIPS&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/SoS2MIPS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=pac-man&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/pac-man)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=BioInfo-genome&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/BioInfo-genome) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasByr&repo=useful-moderator&theme=github_dark&show_owner=true)](https://github.com/ThomasByr/useful-moderator)
 
 ### 📚 My Public Templates
 
